@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 下载应用的ipa包地址 -->
-					<string>http://192.168.0.115:8799/apps/dist/家家悦.ipa</string>
+					<string>http://113.106.48.178:8080/apps/dist/jjyapp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -21,7 +21,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 应用的图片icon地址 -->
-					<string>http://192.168.0.115:8799/apps/icon/jjy_logo_96.png</string>
+					<string>http://113.106.48.178:8080/apps/icon/jjy_logo_96.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -30,7 +30,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 应用的小图片icon地址 -->
-					<string>http://192.168.0.115:8799/apps/icon/jjy_logo_96.png</string>
+					<string>http://113.106.48.178:8080/apps/icon/jjy_logo_96.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
