@@ -37,7 +37,7 @@
 			<dict>
 				<key>bundle-identifier</key>
 				<!-- 包名 -->
-				<string>com.jiajiayue.asset</string>
+				<string>com.longten.jjy.manager</string>
 				<key>bundle-version</key>
 				<!-- 版本号-->
 				<string>1.0.3</string>
@@ -45,7 +45,7 @@
 				<string>software</string>
 				<key>title</key>
 				<!-- 下载的提示信息 -->
-				<string>下载JJY移动管理平台</string>
+				<string>JJY移动管理平台</string>
 			</dict>
 		</dict>
 	</array>
