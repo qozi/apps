@@ -37,7 +37,7 @@
 			<dict>
 				<key>bundle-identifier</key>
 				<!-- 包名 -->
-				<string>com.longten.jjy.manager1</string>
+				<string>com.longten.jjy.manager</string>
 				<key>bundle-version</key>
 				<!-- 版本号-->
 				<string>2.0.0</string>
