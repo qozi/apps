@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<!-- 下载应用的ipa包地址 -->
+					<string>http://221.2.158.157:8080/app/jjyAppMgr_cloud.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<!-- 应用的图片icon地址 -->
+					<string>http://221.2.158.157:8080/app/icon/jjy_logo_96.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<!-- 应用的小图片icon地址 -->
+					<string>http://221.2.158.157:8080/app/icon/jjy_logo_96.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<!-- 包名 -->
+				<string>com.longten.jjy.cloud.manger</string>
+				<key>bundle-version</key>
+				<!-- 版本号-->
+				<string>2.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<!-- 下载的提示信息 -->
+				<string>家家悦移动管理平台</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
