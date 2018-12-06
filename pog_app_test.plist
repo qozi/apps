@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 下载应用的ipa包地址 -->
-					<string>http://121.201.110.113:8021/resources/ipa/POG.ipa</string>
+					<string>http://60.217.64.171:8000/resources/ipa/POG.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -21,7 +21,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 应用的图片icon地址 -->
-					<string>http://121.201.110.113:8021/resources/logo.jpg</string>
+					<string>http://60.217.64.171:8000/resources/logo.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -30,7 +30,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 应用的小图片icon地址 -->
-					<string>http://121.201.110.113:8021/resources/logo.jpg</string>
+					<string>http://60.217.64.171:8000/resources/logo.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -40,7 +40,7 @@
 				<string>com.chinacloudbi.POGTest</string>
 				<key>bundle-version</key>
 				<!-- 版本号-->
-				<string>1.0.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
